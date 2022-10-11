@@ -21,8 +21,9 @@ h1{
     padding: 1%;
 }
 .second-one{
-    height: 250px;
+    height: 300px;
     margin: 5%;
+    padding: 1%;
 }
 img{
     margin-left: 39%;
@@ -35,15 +36,23 @@ img{
 }
 #little-one {
  background-color:aquamarine;
+ border: 5px solid aquamarine;
+ box-shadow: 5px 5px 20px darkcyan;
 }
 #little-two{
     background-color: greenyellow;
+    border: 5px solid greenyellow;
+    box-shadow: 5px 8px yellow;
 }
 #little-three {
     background-color: peru;
+    border: 5px solid peru;
+    box-shadow: 5px 8px darkgoldenrod;
 }
 #little-four {
     background-color: plum;
+    border: 5px solid plum;
+    box-shadow: 5px 5px 20px rgb(186, 89, 235)
 }
 .link{
     text-decoration: none;
