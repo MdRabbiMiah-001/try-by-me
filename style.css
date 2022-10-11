@@ -1,0 +1,58 @@
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: green;
+}
+.histry{
+    width: 40%;
+    margin:1%;
+    margin-left: 3%;
+    padding: 2%;
+    float:left;
+    text-align: justify;
+    border: 2px solid red;
+    border-radius: 5px;
+    height: 100%;  
+}
+.first-one{
+    height: 300px;
+    margin: 5%;
+    padding: 1%;
+}
+.second-one{
+    height: 250px;
+    margin: 5%;
+}
+img{
+    margin-left: 39%;
+    width: 300px;
+    height: 200px;
+}
+.third-one{
+    height: 250px;
+    margin: 10%;
+}
+#little-one {
+ background-color:aquamarine;
+}
+#little-two{
+    background-color: greenyellow;
+}
+#little-three {
+    background-color: peru;
+}
+#little-four {
+    background-color: plum;
+}
+.link{
+    text-decoration: none;
+}
+.media{
+    float: left;
+    width: 50%;
+}
+footer{
+    text-align: center;
+    color: red;
+}
