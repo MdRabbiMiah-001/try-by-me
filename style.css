@@ -4,6 +4,11 @@ h1{
     text-align: center;
     color: green;
 }
+h3{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: green;
+}
 .histry{
     width: 40%;
     margin:1%;
@@ -33,6 +38,11 @@ img{
 .third-one{
     height: 250px;
     margin: 10%;
+}
+.last-one{
+    height: 520px;
+    margin: 10%;
+    padding: 3%;
 }
 #little-one {
  background-color:aquamarine;
@@ -64,4 +74,17 @@ img{
 footer{
     text-align: center;
     color: red;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid darkslategray;
+}
+th{
+    border: 2px solid darkslategrey;
+}
+.form{
+    width: 50%;
+    float: left;
 }
